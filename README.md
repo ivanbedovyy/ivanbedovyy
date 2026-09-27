@@ -1,5 +1,5 @@
 <div align="center">
-  
+ 
   <!-- Аватарка (замените ссылку на свою) -->
   <img src="https://sun9-66.vkuserphoto.ru/s/v1/ig2/_N7t8ceBB3UScyFThVaFvMSp4JJeiOEZUWS_3BoRVx9m5NEdEAs7TKi9SFBuNLhZ13AGLfoV1HD7XeHeWh2m7KYj.jpg?quality=95&as=32x62,48x92,72x139,108x208,160x308,240x462,268x516&from=bu&u=SePO2I9wyBgw0xWUv6AQZlblTimwLc8MBt8Wq7iSPyc&cs=268x0" width="150" style="border-radius: 50%;" />
 
